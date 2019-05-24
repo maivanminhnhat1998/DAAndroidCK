@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "152346629352",
+    "firebase_url": "https://daandroidck.firebaseio.com",
+    "project_id": "daandroidck",
+    "storage_bucket": "daandroidck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152346629352:android:9a48f8a65b8b1252",
+        "android_client_info": {
+          "package_name": "com.example.administrator.daandroidck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152346629352-77l873t1850fofdlv2vctdujjnvii4jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEJ2I5_97DeFCdgwg2zxvt5uKds-ubZCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152346629352-77l873t1850fofdlv2vctdujjnvii4jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
